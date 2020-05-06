@@ -22,6 +22,9 @@ from signer import openssl_command
 import signable
 import shutil
 import utils
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 log = logging.getLogger(__name__)
 
