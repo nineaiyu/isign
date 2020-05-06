@@ -84,7 +84,7 @@ tmtags
 *.iml
 
 # iresign version
-isign/version.json
+#isign/version.json
 
 # iresign temp files
 Entitlements.plist
